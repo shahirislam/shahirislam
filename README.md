@@ -1,6 +1,8 @@
 ### Hi there, I'm Hidetoshi Dekisugi - aka [Dekisugi][website] 👋
 
-[![Website](https://img.shields.io/badge/VISIT%20NOW%20%3A%20-----lifeofdekisugi.netlify.com-blue) <br /> (https://lifeofdekisugi.netlify.app/
+[![Website](https://img.shields.io/badge/VISIT%20NOW%20%3A%20-----lifeofdekisugi.netlify.com-blue)
+<br /> 
+(https://lifeofdekisugi.netlify.app/)
 
 
 ## I'm a Student, Fast Learner, Web Developer, and Programmer!
