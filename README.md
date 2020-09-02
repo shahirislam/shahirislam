@@ -35,7 +35,7 @@
 
 [<img align="left" alt="Hack The Box" width="256px" src="https://www.hackthebox.eu/badge/image/355866" />]
 
-[<img alt="TryHackMe" src="https://tryhackme-badges.s3.amazonaws.com/H.Dekisugi.png" />]
+[<img alt="TryHackMe" src="https://imgur.com/a/2JQMlTC" />]
 
 <br />
 <br />
