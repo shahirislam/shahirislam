@@ -1,4 +1,4 @@
-### Hi there, I'm Hidetoshi Dekisugi - aka [Dekisugi][website] 👋
+### Hi there, I'm SHAHIR ISLAM - aka [Dekisugi][website] 👋
 
 [![Website](https://img.shields.io/badge/VISIT%20NOW%20%3A%20-----lifeofdekisugi.netlify.com-blue)
 <br /> 
@@ -7,7 +7,7 @@
 
 ## I'm a Student, Fast Learner, Web Developer, and Programmer!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a Android App
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
