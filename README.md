@@ -29,7 +29,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
+![Java](https://img.shields.io/badge/Java-JDK%201.0-yellowgreen)
 ![Python3](https://img.shields.io/badge/Python-3.9-yellow)
 
 
