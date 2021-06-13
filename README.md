@@ -47,6 +47,10 @@
 [tryhackme]: https://tryhackme.com/p/H.Dekisugi
 
 
+![lifeofdekisugi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lifeofdekisugi&show_icons=true&theme=radical)
+
+
+
 
 
 
