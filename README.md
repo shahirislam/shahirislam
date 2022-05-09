@@ -3,6 +3,7 @@
 ### Hi there, I'm SHAHIR ISLAM - aka [Dekisugi][website] 👋
 
 [![Website](https://img.shields.io/badge/VISIT%20NOW%20%3A%20-----lifeofdekisugi.netlify.com-blue)
+[![Website](https://img.shields.io/badge/VISIT%20NOW%20%3A%20-----shahir.xyz-blue)
 <br /> 
 (https://lifeofdekisugi.netlify.app/) (https://shahir.xyz)
 
