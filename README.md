@@ -67,6 +67,6 @@
 
 
 
-
+[top_langs_img]: https://github-readme-stats.vercel.app/api/top-langs/?username=lifeofdekisugi&layout=compact&langs_count=8&hide_border=true&theme=radical "lifeofdekisugi Top Lang"
 
 
