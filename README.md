@@ -65,8 +65,6 @@
 [hacker_rank_img]: https://img.shields.io/badge/-Hacker%20Rank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=ffffff "HackerRank"
 [dev_img]: https://img.shields.io/badge/-dev-363D44?style=for-the-badge&logo=dev.to "Dev"
 
-
-
 [top_langs_img]: https://github-readme-stats.vercel.app/api/top-langs/?username=lifeofdekisugi&layout=compact&langs_count=8&hide_border=true&theme=radical "lifeofdekisugi Top Lang"
 
 
