@@ -2,7 +2,7 @@
 
 ### Hi there, I'm SHAHIR ISLAM - aka [Dekisugi][website] 👋
 
-#[![Website](https://img.shields.io/badge/VISIT%20NOW%20%3A%20-----lifeofdekisugi.netlify.com-blue)
+[![Website](https://img.shields.io/badge/VISIT%20NOW%20%3A%20-----lifeofdekisugi.netlify.com-blue)
 [![Website](https://img.shields.io/badge/VISIT%20NOW%20%3A%20-----shahir.xyz-blue)
 <br /> 
 (https://lifeofdekisugi.netlify.app/) (https://shahir.xyz)
@@ -41,8 +41,8 @@
 <br />
 
 
-[website]: https://lifeofdekisugi.netlify.app/
-[github]: https://github.com/Hdekisugi
+[website]: https://shahir.click/
+[github]: https://github.com/lifeofdekisugi
 [facebook]: https://facebook.com/me.grayhathacker/
 [tryhackme]: https://tryhackme.com/p/H.Dekisugi
 
