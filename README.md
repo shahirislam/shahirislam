@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Shahir%20Islam!&fontSize=40&fontColor=000000)
 
 ### Hi there, I'm SHAHIR ISLAM - aka [Dekisugi][website] 👋
-
-(https://lifeofdekisugi.netlify.app/) (https://shahir.click)
+ (https://shahirislam.com)
 
 
 ## I'm a Student, Fast Learner, Web Developer, and Programmer!
