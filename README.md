@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Shahir%20Islam!&fontSize=40&fontColor=000000)
 
 ### Hi there, I'm SHAHIR ISLAM - aka [Dekisugi][website] 👋
- (https://shahirislam.com)
+ (https://shahirislam.me)
 
 
 ## I'm a Student, Fast Learner, Web Developer, and Programmer!
@@ -37,13 +37,11 @@
 <br />
 
 
-[website]: https://shahir.click/
-[github]: https://github.com/lifeofdekisugi
-[facebook]: https://facebook.com/me.grayhathacker/
-[tryhackme]: https://tryhackme.com/p/H.Dekisugi
+[website]: https://shahir.me/
+[github]: https://github.com/shahirislam
 
 
-![lifeofdekisugi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lifeofdekisugi&show_icons=true&theme=radical)
+![lifeofdekisugi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahirislam&show_icons=true&theme=radical)
 
 
 <!-- references -->
