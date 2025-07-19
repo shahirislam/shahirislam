@@ -1,64 +1,21 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Shahir%20Islam!&fontSize=40&fontColor=000000)
-
-### Hi there, I'm SHAHIR ISLAM - aka [Dekisugi][website] 👋
- (https://shahirislam.me)
+# 💫 About Me:
+🔭 I’m currently working on an AI Buddy Device<br>👯 I’m looking to collaborate on AI Projects<br>🤝 I’m looking for help with Understanding Systems<br>🌱 I’m currently learning Context-Based AI Development<br>💬 Ask me about how long a day is?<br>
 
 
-## I'm a Student, Fast Learner, Web Developer, and Programmer!
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahirislam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello@shahirislam.me) 
 
-- 🔭 I’m currently working on a Android App
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+# 💻 Tech Stack:
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shahirislam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shahirislam&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahirislam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-### Connect with me:
-
-[![LinkedIn][linkedin_img]][linkedin] [![Stack Overflow][stack_overflow_img]][stack_overflow] [![Instagram][instagram_img]][instagram] [![HackerRank][hacker_rank_img]][hacker_rank] [![Dev][dev_img]][dev]
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=shahirislam&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Languages and tools
-
-
-![Firebase](https://img.shields.io/badge/-Firebase-white?style=flat-square&logo=firebase)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Java](https://img.shields.io/badge/Java-JDK%201.0-yellowgreen)
-![Python3](https://img.shields.io/badge/Python-3.9-yellow)
-
-
-<br />
-<br />
-
-
-[website]: https://shahir.me/
-[github]: https://github.com/shahirislam
-
-
-![lifeofdekisugi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahirislam&show_icons=true&theme=radical)
-
-
-<!-- references -->
-[linkedin]: https://www.linkedin.com/in/lifeofdekisugi/ "LinkedIn"
-[stack_overflow]: https://stackoverflow.com/users/15600603/lifeofdekisugi "Stack Overflow"
-[instagram]: https://www.instagram.com/lifeofdekisugi/ "Instagram"
-[hacker_rank]: # "HackerRank"
-[dev]: https://dev.to/lifeofdekisugi "Dev"
-
-
-<!-- img references -->
-[linkedin_img]: https://img.shields.io/badge/-LinkedIn-0B66C2?style=for-the-badge&logo=linkedin "LinkedIn"
-[stack_overflow_img]: https://img.shields.io/badge/-Stack%20Overflow-F2720C?style=for-the-badge&logo=stackoverflow&logoColor=ffffff "Stack Overflow"
-[instagram_img]: https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=ffffff "Instagram"
-[hacker_rank_img]: https://img.shields.io/badge/-Hacker%20Rank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=ffffff "HackerRank"
-[dev_img]: https://img.shields.io/badge/-dev-363D44?style=for-the-badge&logo=dev.to "Dev"
-
-[top_langs_img]: https://github-readme-stats.vercel.app/api/top-langs/?username=lifeofdekisugi&layout=compact&langs_count=8&hide_border=true&theme=radical "lifeofdekisugi Top Lang"
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
